@@ -56,8 +56,10 @@ public class SoundActivity extends AppCompatActivity {
         mediaSoundBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //MediaPlayer player = MediaPlayer.create(getApplicationContext(), R.raw.beep);
-                //player.start();
+                /*
+                MediaPlayer player = MediaPlayer.create(getApplicationContext(), R.raw.beep);
+                player.start();
+                 */
             }
         });
     }
