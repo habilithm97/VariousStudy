@@ -10,4 +10,10 @@
         android:layout_height="wrap_content"
         android:text="상단 알림 띄우기" />
 
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="상단 알림 띄우고 클릭하기" />
+
 </LinearLayout>
