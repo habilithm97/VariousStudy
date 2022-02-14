@@ -5,15 +5,9 @@
     android:orientation="vertical">
 
     <Button
-        android:id="@+id/soundBtn"
+        android:id="@+id/btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="사운드 액티비티로 이동하기" />
-
-    <Button
-        android:id="@+id/notifyBtn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="상단 알림 액티비티로 이동하기" />
+        android:text="상단 알림 띄우기" />
 
 </LinearLayout>
